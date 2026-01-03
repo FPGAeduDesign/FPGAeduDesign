@@ -51,15 +51,35 @@
 
 <div align="center">
 
-<img src="db_imgs/test2_1k.png" width="220"/>
-&nbsp;&nbsp;
-<img src="db_imgs/explorer_neo_5k.jpeg" width="220"/>
-&nbsp;&nbsp;
-<img src="db_imgs/explorer_edge_9k.jpeg" width="220"/>
+<a href="https://github.com/FPGAeduDesign/development_boards/tree/main/Explorer-Lite-1k">
+  <img src="db_imgs/test2_1k.png" width="204"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/FPGAeduDesign/development_boards/tree/main/Explorer-Neo-5k">
+  <img src="db_imgs/explorer_neo_5k.jpeg" width="220"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/FPGAeduDesign/development_boards/tree/main/Explorer-Edge-9k">
+  <img src="db_imgs/explorer_edge_9k.jpeg" width="220"/>
+</a>
 
 <br>
 
-<strong>Explorer Lite-1K</strong> &nbsp;&nbsp;•&nbsp;&nbsp; <strong>Explorer Neo-5K</strong> &nbsp;&nbsp;• &nbsp;&nbsp;<strong>Explorer Edge-9K</strong>
+<a href="https://github.com/FPGAeduDesign/development_boards/tree/main/Explorer-Lite-1K">
+  <strong>Explorer Lite-1K</strong>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/FPGAeduDesign/development_boards/tree/main/Explorer-Neo-5K">
+  <strong>Explorer Neo-5K</strong>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/FPGAeduDesign/development_boards/tree/main/Explorer-Edge-9K">
+  <strong>Explorer Edge-9K</strong>
+</a>
 
 </div>
 
