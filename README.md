@@ -4,10 +4,18 @@
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
 
-[![Website](https://img.shields.io/badge/Website-fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27&logo=google-chrome&logoColor=white)](https://fpgaedudesign.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&labelColor=1a1b27&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
-[![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
+<a href="https://fpgaedudesign.com">
+  <img src="https://img.shields.io/badge/Website-fpgaedudesign.com-00E676?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@FPGAeduDesign">
+  <img src="https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF1744?style=for-the-badge&labelColor=000000&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://tiktok.com/@FPGAeduDesign">
+  <img src="https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=white"/>
+</a>
+<a href="mailto:fpgaedudesign@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white"/>
+</a>
 
 <br>
 
