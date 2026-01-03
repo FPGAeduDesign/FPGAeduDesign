@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="db_imgs/test1_1k.png" width="220"/>
+<img src="db_imgs/test2_1k.png" width="220"/>
 &nbsp;&nbsp;
 <img src="db_imgs/explorer_neo_5k.jpeg" width="220"/>
 &nbsp;&nbsp;
