@@ -22,7 +22,7 @@
 <span style="display:inline-flex;align-items:center;gap:20px;">
 
 <span style="display:inline-flex;align-items:center;gap:8px;">
-<img src="profile_icons/icons8-tarjeta-de-circuito-impreso-50.pn" width="22"/>
+<img src="profile_icons/icons8-tarjeta-de-circuito-impreso-50.png" width="22"/>
 <strong>Desarrollo FPGA</strong>
 </span>
 
@@ -33,7 +33,7 @@
 
 <span style="display:inline-flex;align-items:center;gap:8px;">
 <img src="profile_icons/icons8-educación-48.png" width="22"/>
-<strong>Educación en Diseño Digital</strong>
+<strong>Formación Profesional</strong>
 </span>
 
 <span style="display:inline-flex;align-items:center;gap:8px;">
@@ -57,7 +57,7 @@
 &nbsp;&nbsp;
 <img src="db_imgs/test2_5k.png" width="220"/>
 
-<br><br>
+<br>
 
 <strong>Explorer Lite-1K</strong> &nbsp;&nbsp;•&nbsp;&nbsp; <strong>Explorer Neo-5K</strong> &nbsp;&nbsp;• &nbsp;&nbsp;<strong>Explorer Edge-9K</strong>
 
