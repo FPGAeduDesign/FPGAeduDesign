@@ -3,21 +3,30 @@
 # 🛸 FPGAeduDesign
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
+&nbsp;&nbsp;
+[![Website](profile_icons/icons8-dominio-48.png)](https://fpgaedudesign.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![YouTube](profile_icons/icons8-youtube-48.png)](https://youtube.com/@FPGAeduDesign)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![TikTok](profile_icons/icons8-tik-tok-48.png)](https://tiktok.com/@FPGAeduDesign)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](profile_icons/icons8-gmail-48.png)](mailto:fpgaedudesign@gmail.com)
 
-[!(profile_icons/icons8-dominio-48.png)](https://fpgaedudesign.com)
-[!(profile_icons/icons8-youtube-48.png)](https://youtube.com/@FPGAeduDesign)
-[!(profile_icons/icons8-tik-tok-48.png)](https://tiktok.com/@FPGAeduDesign)
-[!(profile_icons/icons8-gmail-48.png)](mailto:fpgaedudesign@gmail.com)
+**Website** &nbsp;&nbsp;•&nbsp;&nbsp;
+**YouTube** &nbsp;&nbsp;•&nbsp;&nbsp;
+**TikTok** &nbsp;&nbsp;•&nbsp;&nbsp;
+**Email**
 
-<br>
-
-**`⚡ FPGA Development`** • **`⏱️ Real-Time Systems`** • **`🎓 Digital Design Education`** • **`🔧 Hardware Engineering`**
+<img src="profile_icons/icons8-tarjeta-de-circuito-impreso-50.png" width="24" style="vertical-align: middle;" /> **FPGA Development** &nbsp;•&nbsp;
+<img src="profile_icons/icons8-reloj-48.png" width="24" style="vertical-align: middle;" /> **Real-Time Systems** &nbsp;•&nbsp;
+<img src="profile_icons/icons8-educación-48.png" width="24" style="vertical-align: middle;" /> **Digital Design Education** &nbsp;•&nbsp;
+<img src="profile_icons/icons8-circuito-48.png" width="24" style="vertical-align: middle;" /> **Hardware Engineering**
 
 </div>
 
 ---
 
-## 🎯 Sobre FPGAeduDesign
+## Sobre FPGAeduDesign
 
 **FPGAeduDesign** es una empresa peruana de ingeniería electrónica especializada en **soluciones FPGA profesionales** y **educación en diseño digital**. Con sede en Cusco, Perú, desarrollamos tanto productos educativos como soluciones industriales a medida para aplicaciones críticas de alto rendimiento.
 
@@ -62,9 +71,9 @@ Compartimos conocimiento y fomentamos la comunidad FPGA:
 
 | Placa | Chip FPGA | LUTs | Nivel | Aplicaciones |
 |:------|:----------|:-----|:------|:-------------|
-| **🟢 Explorer Lite-1K** | Gowin GW1N-1K | ~1,152 | Entry | Introducción, proyectos educativos |
-| **🟡 Explorer Neo-5K** | Gowin GW2A-18K | ~20,736 | Intermediate | DSP, comunicaciones, control industrial |
-| **🔴 Explorer Edge-9K** | Gowin GW2A-55K | ~55,296 | Advanced | Tiempo real, alta velocidad, edge computing |
+| **🟢 Explorer Lite-1K** | Gowin GW1NZ-1 | ~1,152 | Entry | Introducción, proyectos educativos |
+| **🟡 Explorer Neo-5K** | Gowin GW1N-4 | ~4,608 | Intermediate | DSP, comunicaciones, control industrial |
+| **🔴 Explorer Edge-9K** | Gowin GW1NR-9 | ~8,640 | Advanced | Tiempo real, alta velocidad, edge computing |
 
 <div align="center">
 
