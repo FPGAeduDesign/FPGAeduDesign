@@ -62,9 +62,9 @@ Compartimos conocimiento y fomentamos la comunidad FPGA:
 
 | Placa | Chip FPGA | LUTs | Nivel | Aplicaciones |
 |:------|:----------|:-----|:------|:-------------|
-| **🟢 Explorer Lite-1K** | Gowin GW1N-1K | ~1,152 | Entry | Introducción, proyectos educativos |
-| **🟡 Explorer Neo-5K** | Gowin GW2A-18K | ~20,736 | Intermediate | DSP, comunicaciones, control industrial |
-| **🔴 Explorer Edge-9K** | Gowin GW2A-55K | ~55,296 | Advanced | Tiempo real, alta velocidad, edge computing |
+| **🟢 Explorer Lite-1K** | Gowin GW1NZ-1 | ~1,152 | Entry | Introducción, proyectos educativos |
+| **🟡 Explorer Neo-5K** | Gowin GW1N-4 | ~4,608 | Intermediate | DSP, comunicaciones, control industrial |
+| **🔴 Explorer Edge-9K** | Gowin GW1N-9 | ~8,640 | Advanced | Tiempo real, alta velocidad, edge computing |
 
 <div align="center">
 
@@ -366,7 +366,7 @@ Los proyectos están organizados por nivel de complejidad:
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
-**`"Diseñando el futuro digital, un bit a la vez"` 🛸**
+**`"¿Te atrevea a diseñar tu chip a medida?"` 🛸**
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
