@@ -33,12 +33,14 @@ Desarrollamos sistemas FPGA customizados para problemas reales que demandan:
 
 ### 📚 Plataforma Educativa
 
+**"Democratizando el uso de chips FPGA"**
+
 Compartimos conocimiento y fomentamos la comunidad FPGA:
 
 - 🎓 **Transmisiones en vivo** en TikTok y talleres completos en YouTube
-- 📦 **Placas de desarrollo** propias (Explorer Series)
+- 📦 **Placas de desarrollo** propias (Explorer Series) - accesibles y documentadas
 - 💻 **Proyectos open source** con documentación en español
-- 🛠️ **Herramientas open source** para democratizar el acceso
+- 🛠️ **Herramientas open source** (GHDL, Verilator, openFPGALoader) para eliminar barreras
 - 📖 **Contenido educativo** desde fundamentos hasta diseño de SoC
 
 ---
@@ -97,26 +99,38 @@ Los proyectos están organizados por nivel de complejidad:
 |:-----------|:----------|:-----------|
 | 📺 **YouTube** [@FPGAeduDesign](https://youtube.com/@FPGAeduDesign) | Talleres completos, tutoriales detallados, cursos estructurados | Aprendizaje profundo |
 | 🎵 **TikTok** [@FPGAeduDesign](https://tiktok.com/@FPGAeduDesign) | Demos rápidas, tips, previews de proyectos | Inspiración rápida |
+| 📘 **Facebook** [FPGAeduDesign](https://facebook.com/FPGAeduDesign) | Publicaciones técnicas, anuncios, comunidad | Interacción y actualizaciones |
+| 📸 **Instagram** [@FPGAeduDesign](https://instagram.com/FPGAeduDesign) | Fotos de proyectos, behind the scenes, stories | Contenido visual |
 
 </div>
 
 ---
 
-## 💼 Servicios Profesionales
+## 💼 Servicios y Productos
 
-FPGAeduDesign desarrolla soluciones FPGA a medida para aplicaciones industriales críticas:
+FPGAeduDesign ofrece soluciones completas desde hardware hasta software:
 
 <table>
 <tr>
 <td width="50%">
 
+### 🛒 Venta de Hardware
+
+- **Placas de desarrollo** Explorer Series
+- **Controladores FPGA** para interfaces específicas
+- **Módulos de comunicación** (UART, SPI, I2C, Ethernet, USB)
+- **IP Cores listos** para integrar
+- **Sistemas embebidos** completos
+
 ### 🎯 Desarrollo FPGA Custom
 
 - Diseño de firmware desde cero
+- **Diseños portables** entre diferentes FPGAs
 - Migración y modernización de sistemas
 - Optimización de diseños existentes
 - IP cores especializados
 - Verificación completa con testbenches
+- **Código HDL independiente del fabricante**
 
 ### 🔄 Ingeniería Inversa y Reemplazo
 
@@ -126,24 +140,25 @@ FPGAeduDesign desarrolla soluciones FPGA a medida para aplicaciones industriales
 - Migración de ASICs a FPGA
 - Extensión de vida útil de sistemas
 
+</td>
+<td width="50%">
+
+### 💻 Soluciones Completas Llave en Mano
+
+- **Hardware**: Diseño de PCB y ensamblaje
+- **FPGA**: Desarrollo de firmware HDL portable
+- **Software**: Interfaces gráficas (GUI) de control
+- **Integración**: Sistema completo funcional
+- **Documentación**: Manuales técnicos y de usuario
+- **Flexibilidad**: Diseños migrables entre fabricantes
+
 ### 📡 Sistemas de Alto Rendimiento
 
 - Procesamiento en tiempo real
 - Interfaces de alta velocidad
 - Adquisición de datos multi-canal
 - Sincronización precisa
-- Sistemas de comunicación
-
-</td>
-<td width="50%">
-
-### 🔌 Ingeniería Electrónica
-
-- Diseño de PCB multicapa
-- Análisis de integridad de señal
-- Circuitos analógicos y digitales
-- Prototipado y fabricación
-- Testing y validación
+- Protocolos de comunicación custom
 
 ### 🎓 Capacitación y Consultoría
 
@@ -157,7 +172,7 @@ FPGAeduDesign desarrolla soluciones FPGA a medida para aplicaciones industriales
 </tr>
 </table>
 
-**¿Necesitas una solución a medida?** Contáctanos: [fpgaedudesign@gmail.com](mailto:fpgaedudesign@gmail.com)
+**¿Necesitas hardware, firmware o una solución completa?** Contáctanos: [fpgaedudesign@gmail.com](mailto:fpgaedudesign@gmail.com)
 
 ---
 
@@ -199,6 +214,8 @@ FPGAeduDesign desarrolla soluciones FPGA a medida para aplicaciones industriales
 [![Email](https://img.shields.io/badge/Email-fpgaedudesign@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
 [![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
+[![Facebook](https://img.shields.io/badge/Facebook-FPGAeduDesign-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FPGAeduDesign)
+[![Instagram](https://img.shields.io/badge/Instagram-@FPGAeduDesign-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FPGAeduDesign)
 
 <br>
 
