@@ -4,10 +4,10 @@
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
 
-[![Website](https://img.shields.io/badge/🌐_fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27)](https://fpgaedudesign.com)
-[![YouTube](https://img.shields.io/badge/▶️_@FPGAeduDesign-FF4444?style=for-the-badge&labelColor=1a1b27)](https://youtube.com/@FPGAeduDesign)
-[![TikTok](https://img.shields.io/badge/🎵_@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27)](https://tiktok.com/@FPGAeduDesign)
-[![Email](https://img.shields.io/badge/📧_Contact-FFB454?style=for-the-badge&labelColor=1a1b27)](mailto:fpgaedudesign@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27&logoColor=white)](https://fpgaedudesign.com)
+[![YouTube](https://img.shields.io/badge/▶️_@FPGAeduDesign-FF0000?style=for-the-badge&labelColor=1a1b27&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
+[![TikTok](https://img.shields.io/badge/🎵_@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
+[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -34,6 +34,7 @@ Desarrollamos sistemas FPGA customizados para problemas reales que demandan:
 - **🔌 Interfaces de alta velocidad** (PCIe, Gigabit Ethernet, USB 3.x)
 - **🖥️ Desarrollo de PCB** y sistemas embebidos completos
 - **♻️ Diseños portables** migrables entre diferentes fabricantes de FPGA
+- **🧩 Co-diseño MCU+FPGA** (SoC) para soluciones híbridas optimizadas
 
 **Sectores:** Automatización industrial • Instrumentación • Telecomunicaciones • Procesamiento de señales • Edge computing
 
@@ -171,6 +172,8 @@ FPGAeduDesign ofrece soluciones completas desde hardware hasta software:
 ```
 → Hardware: Diseño PCB y ensamblaje
 → FPGA: Firmware HDL portable
+→ MCU: Firmware embebido (si aplica)
+→ Co-diseño: MCU+FPGA (SoC híbrido)
 → Software: Interfaces gráficas (GUI)
 → Integración: Sistema completo funcional
 → Documentación: Manuales técnicos
@@ -185,6 +188,7 @@ FPGAeduDesign ofrece soluciones completas desde hardware hasta software:
 → Adquisición de datos multi-canal
 → Sincronización de precisión
 → Protocolos de comunicación custom
+→ Arquitecturas híbridas MCU+FPGA
 ```
 
 ### 🎓 Capacitación y Consultoría
@@ -348,8 +352,8 @@ Los proyectos están organizados por nivel de complejidad:
 ## 🌐 Contacto
 
 [![Website](https://img.shields.io/badge/Web-fpgaedudesign.com-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fpgaedudesign.com)
-[![Email](https://img.shields.io/badge/Email-fpgaedudesign@gmail.com-FFB454?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF4444?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
+[![Email](https://img.shields.io/badge/Email-fpgaedudesign@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
 [![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
 [![Facebook](https://img.shields.io/badge/Facebook-FPGAeduDesign-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FPGAeduDesign)
 [![Instagram](https://img.shields.io/badge/Instagram-@FPGAeduDesign-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FPGAeduDesign)
