@@ -11,7 +11,7 @@
 
 <br>
 
-**`⚡ Professional FPGA Development`** • **`⏱️ Real-Time Systems`** • **`🎓 Digital Design Education`** • **`🔧 Hardware Engineering`**
+**`⚡ FPGA Development`** • **`⏱️ Real-Time Systems`** • **`🎓 Digital Design Education`** • **`🔧 Hardware Engineering`**
 
 </div>
 
