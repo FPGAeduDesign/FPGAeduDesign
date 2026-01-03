@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/badge/FPGAeduDesign-Professional%20Hardware%20Engineering-00E5FF?style=for-the-badge&labelColor=000000" />
 
-<br><br>
-
 # 🛸 FPGAeduDesign
 
 ### <span style="color:#9CDCFE;">Soluciones FPGA Profesionales</span>  
