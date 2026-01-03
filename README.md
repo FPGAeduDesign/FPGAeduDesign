@@ -4,11 +4,10 @@
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
 
-<img src="https://iconsvg.co/svg/microchip.svg" width="18" /> **`FPGA Development`**  
-🎓 **`Digital Design Education`**  
-🔧 **`Hardware Engineering`**  
-🖥️ **`Embedded Systems`**  
-<img src="https://iconduck.com/icons/190066/circuit-board.svg" width="18" /> **`PCB Design`**
+[![Website](https://img.shields.io/badge/Website-fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27&logo=google-chrome&logoColor=white)](https://fpgaedudesign.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&labelColor=1a1b27&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
+[![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 
 <br>
 
