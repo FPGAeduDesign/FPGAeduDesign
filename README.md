@@ -95,6 +95,6 @@
 
 [![Email](https://img.shields.io/badge/Contacto-fpgaedudesign@gmail.com-FFB454?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 
-<strong>“Diseñando el futuro digital, un bit a la vez”</strong> 🛸
+<strong>“¿Te animas a diseñar tu propio chip a medida?”</strong> 🛸
 
 </div>
