@@ -9,12 +9,9 @@
 [![TikTok](https://img.shields.io/badge/🎵_@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
 [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Professional FPGA Development • Real-Time Systems          │
-│  Digital Design Education • Hardware Engineering            │
-└─────────────────────────────────────────────────────────────┘
-```
+<br>
+
+**`⚡ Professional FPGA Development`** • **`⏱️ Real-Time Systems`** • **`🎓 Digital Design Education`** • **`🔧 Hardware Engineering`**
 
 </div>
 
@@ -30,13 +27,16 @@ Desarrollamos sistemas FPGA customizados para problemas reales que demandan:
 
 - **⏱️ Procesamiento en tiempo real** con latencia ultra-baja
 - **📊 Manipulación masiva de datos** a altas frecuencias
-- **🔧 Diseños digitales a medida** optimizados para la aplicación
+- **🎥 Procesamiento de video e imágenes** en tiempo real
+- **🤖 Machine Learning e IA** acelerada en FPGA
+- **📡 Procesamiento digital de señales** (DSP)
+- **🎛️ Control avanzado** (PID, lógica fuzzy)
 - **🔌 Interfaces de alta velocidad** (PCIe, Gigabit Ethernet, USB 3.x)
 - **🖥️ Desarrollo de PCB** y sistemas embebidos completos
 - **♻️ Diseños portables** migrables entre diferentes fabricantes de FPGA
 - **🧩 Co-diseño MCU+FPGA** (SoC) para soluciones híbridas optimizadas
 
-**Sectores:** Automatización industrial • Instrumentación • Telecomunicaciones • Procesamiento de señales • Edge computing
+**Sectores:** Automatización industrial • Instrumentación • Telecomunicaciones • Visión artificial • Edge AI • Control de procesos
 
 ### 🎓 Plataforma Educativa
 
@@ -184,6 +184,10 @@ FPGAeduDesign ofrece soluciones completas desde hardware hasta software:
 
 ```
 → Procesamiento en tiempo real
+→ Procesamiento de video e imágenes
+→ Machine Learning / IA en FPGA
+→ Procesamiento digital de señales (DSP)
+→ Control PID y lógica fuzzy
 → Interfaces de alta velocidad
 → Adquisición de datos multi-canal
 → Sincronización de precisión
@@ -360,11 +364,13 @@ Los proyectos están organizados por nivel de complejidad:
 
 <br>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│     "Diseñando el futuro digital, un bit a la vez" 🛸      │
-└─────────────────────────────────────────────────────────────┘
-```
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+**`"Diseñando el futuro digital, un bit a la vez"` 🛸**
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+<br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FPGAeduDesign.FPGAeduDesign&left_color=4A9EFF&right_color=FFB454)
 
