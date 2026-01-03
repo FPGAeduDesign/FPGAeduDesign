@@ -53,9 +53,9 @@
 
 <img src="db_imgs/test1_1k.png" width="220"/>
 &nbsp;&nbsp;
-<img src="db_imgs/test1_1k.png" width="220"/>
+<img src="db_imgs/explorer_neo_5k.jpeg" width="220"/>
 &nbsp;&nbsp;
-<img src="db_imgs/test2_5k.png" width="220"/>
+<img src="db_imgs/explorer_edge_9k.jpeg" width="220"/>
 
 <br>
 
