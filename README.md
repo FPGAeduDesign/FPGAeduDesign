@@ -4,10 +4,10 @@
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
 
-[![Website](https://img.shields.io/badge/Website-fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27&logo=google-chrome&logoColor=white)](https://fpgaedudesign.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&labelColor=1a1b27&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
-[![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
+[!(profile_icons/icons8-dominio-48.png)](https://fpgaedudesign.com)
+[!(profile_icons/icons8-youtube-48.png)](https://youtube.com/@FPGAeduDesign)
+[!(profile_icons/icons8-tik-tok-48.png)](https://tiktok.com/@FPGAeduDesign)
+[!(profile_icons/icons8-gmail-48.png)](mailto:fpgaedudesign@gmail.com)
 
 <br>
 
