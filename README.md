@@ -4,10 +4,10 @@
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
 
-[![Website](https://img.shields.io/badge/🌐_fpgaedudesign.com-00D9FF?style=for-the-badge&labelColor=0A0E27)](https://fpgaedudesign.com)
-[![YouTube](https://img.shields.io/badge/▶️_@FPGAeduDesign-00FF94?style=for-the-badge&labelColor=0A0E27)](https://youtube.com/@FPGAeduDesign)
-[![TikTok](https://img.shields.io/badge/🎵_@FPGAeduDesign-00D9FF?style=for-the-badge&labelColor=0A0E27)](https://tiktok.com/@FPGAeduDesign)
-[![Email](https://img.shields.io/badge/📧_Contact-00FF94?style=for-the-badge&labelColor=0A0E27)](mailto:fpgaedudesign@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27)](https://fpgaedudesign.com)
+[![YouTube](https://img.shields.io/badge/▶️_@FPGAeduDesign-FF4444?style=for-the-badge&labelColor=1a1b27)](https://youtube.com/@FPGAeduDesign)
+[![TikTok](https://img.shields.io/badge/🎵_@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27)](https://tiktok.com/@FPGAeduDesign)
+[![Email](https://img.shields.io/badge/📧_Contact-FFB454?style=for-the-badge&labelColor=1a1b27)](mailto:fpgaedudesign@gmail.com)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -39,7 +39,7 @@ Desarrollamos sistemas FPGA customizados para problemas reales que demandan:
 
 ### 🎓 Plataforma Educativa
 
-**"Democratizando el uso de chips FPGA"**
+> **"Democratizando el uso de chips FPGA"**
 
 Compartimos conocimiento y fomentamos la comunidad FPGA:
 
@@ -91,33 +91,33 @@ Todas las placas Explorer utilizan chips FPGA de **Gowin Semiconductor**, ofreci
 
 ### Hardware Description Languages
 
-![VHDL](https://img.shields.io/badge/VHDL-Expert-00D9FF?style=flat-square&labelColor=0A0E27)
-![Verilog](https://img.shields.io/badge/Verilog-Expert-00FF94?style=flat-square&labelColor=0A0E27)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Advanced-7B61FF?style=flat-square&labelColor=0A0E27)
+![VHDL](https://img.shields.io/badge/VHDL-Expert-4A9EFF?style=flat-square&logo=v&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-Expert-5FD38D?style=flat-square&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Advanced-A371F7?style=flat-square&logo=v&logoColor=white)
 
 ### Design & Synthesis Tools
 
-![Gowin EDA](https://img.shields.io/badge/Gowin_EDA-Primary-00D9FF?style=flat-square&labelColor=0A0E27)
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-00FF94?style=flat-square&labelColor=0A0E27)
-![Quartus](https://img.shields.io/badge/Intel_Quartus-7B61FF?style=flat-square&labelColor=0A0E27)
+![Gowin EDA](https://img.shields.io/badge/Gowin_EDA-Primary-4A9EFF?style=flat-square)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white)
+![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
 
 ### Open Source Ecosystem
 
-![GHDL](https://img.shields.io/badge/GHDL-VHDL_Sim-00D9FF?style=flat-square&labelColor=0A0E27)
-![Verilator](https://img.shields.io/badge/Verilator-Verilog_Sim-00FF94?style=flat-square&labelColor=0A0E27)
-![openFPGALoader](https://img.shields.io/badge/openFPGALoader-Programming-7B61FF?style=flat-square&labelColor=0A0E27)
-![Yosys](https://img.shields.io/badge/Yosys-Synthesis-00D9FF?style=flat-square&labelColor=0A0E27)
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveforms-00FF94?style=flat-square&labelColor=0A0E27)
+![GHDL](https://img.shields.io/badge/GHDL-VHDL_Simulator-5FD38D?style=flat-square)
+![Verilator](https://img.shields.io/badge/Verilator-Verilog_Simulator-4A9EFF?style=flat-square)
+![openFPGALoader](https://img.shields.io/badge/openFPGALoader-Programming-FFB454?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys-Open_Synthesis-A371F7?style=flat-square)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Viewer-5FD38D?style=flat-square)
 
 ### Educational Tools
 
-![Digital](https://img.shields.io/badge/Digital-Logic_Designer-00D9FF?style=flat-square&labelColor=0A0E27)
-![Logisim Evolution](https://img.shields.io/badge/Logisim_Evolution-Circuit_Sim-00FF94?style=flat-square&labelColor=0A0E27)
+![Digital](https://img.shields.io/badge/Digital-Logic_Designer-FF6B9D?style=flat-square)
+![Logisim Evolution](https://img.shields.io/badge/Logisim_Evolution-Circuit_Sim-4A9EFF?style=flat-square)
 
 ### PCB Design
 
-![KiCad](https://img.shields.io/badge/KiCad-Open_Source-00D9FF?style=flat-square&labelColor=0A0E27)
-![Altium](https://img.shields.io/badge/Altium_Designer-Professional-7B61FF?style=flat-square&labelColor=0A0E27)
+![KiCad](https://img.shields.io/badge/KiCad-Open_Source-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
 
 </div>
 
@@ -205,7 +205,7 @@ FPGAeduDesign ofrece soluciones completas desde hardware hasta software:
 
 **¿Necesitas hardware, firmware o una solución completa?**
 
-[![Contact](https://img.shields.io/badge/📧_fpgaedudesign@gmail.com-00FF94?style=for-the-badge&labelColor=0A0E27)](mailto:fpgaedudesign@gmail.com)
+[![Contact](https://img.shields.io/badge/📧_fpgaedudesign@gmail.com-FFB454?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 
 </div>
 
@@ -307,9 +307,9 @@ Los proyectos están organizados por nivel de complejidad:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FPGAeduDesign&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00FF94&text_color=FFFFFF&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FPGAeduDesign&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=4A9EFF&icon_color=FFB454&text_color=E4E4E7&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPGAeduDesign&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPGAeduDesign&layout=compact&theme=react&hide_border=true&bg_color=1a1b27&title_color=4A9EFF&text_color=E4E4E7)
 
 </div>
 
@@ -317,25 +317,29 @@ Los proyectos están organizados por nivel de complejidad:
 
 ## 🤝 Colabora con Nosotros
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🐛  Issues    → Reporta bugs o sugiere mejoras            │
-│  ✨  PRs       → Contribuciones bienvenidas                 │
-│  📖  Docs      → Ayuda a mejorar guías y ejemplos           │
-│  🌟  Share     → Si usaste nuestras placas, ¡compártelo!   │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Acción | Descripción |
+|:------:|:-----------|
+| **🐛 Issues** | Reporta bugs o sugiere mejoras |
+| **✨ Pull Requests** | Contribuciones bienvenidas |
+| **📖 Documentación** | Ayuda a mejorar guías y ejemplos |
+| **🌟 Comparte** | Si usaste nuestras placas, ¡cuéntanos tu proyecto! |
+
+</div>
 
 ---
 
 ## 📜 Licencias
 
-```
-Proyectos educativos → MIT License (open source)
-Diseños de hardware  → CERN OHL (cuando aplique)
-```
+<div align="center">
+
+**Proyectos educativos:** ![MIT](https://img.shields.io/badge/License-MIT-5FD38D?style=flat-square) Open Source  
+**Diseños de hardware:** ![CERN OHL](https://img.shields.io/badge/License-CERN_OHL-4A9EFF?style=flat-square) Cuando aplique
 
 **Copyright © 2025 FPGAeduDesign** • Roly Sandro Gutierrez Benito • Cusco, Perú
+
+</div>
 
 ---
 
@@ -343,12 +347,12 @@ Diseños de hardware  → CERN OHL (cuando aplique)
 
 ## 🌐 Contacto
 
-[![Website](https://img.shields.io/badge/Web-fpgaedudesign.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27)](https://fpgaedudesign.com)
-[![Email](https://img.shields.io/badge/Email-fpgaedudesign@gmail.com-00FF94?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27)](mailto:fpgaedudesign@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0E27)](https://youtube.com/@FPGAeduDesign)
-[![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0A0E27)](https://tiktok.com/@FPGAeduDesign)
-[![Facebook](https://img.shields.io/badge/Facebook-FPGAeduDesign-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A0E27)](https://facebook.com/FPGAeduDesign)
-[![Instagram](https://img.shields.io/badge/Instagram-@FPGAeduDesign-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E27)](https://instagram.com/FPGAeduDesign)
+[![Website](https://img.shields.io/badge/Web-fpgaedudesign.com-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fpgaedudesign.com)
+[![Email](https://img.shields.io/badge/Email-fpgaedudesign@gmail.com-FFB454?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF4444?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
+[![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
+[![Facebook](https://img.shields.io/badge/Facebook-FPGAeduDesign-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FPGAeduDesign)
+[![Instagram](https://img.shields.io/badge/Instagram-@FPGAeduDesign-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FPGAeduDesign)
 
 <br>
 
@@ -358,6 +362,6 @@ Diseños de hardware  → CERN OHL (cuando aplique)
 └─────────────────────────────────────────────────────────────┘
 ```
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FPGAeduDesign.FPGAeduDesign&left_color=0A0E27&right_color=00D9FF&left_text=Visitors)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FPGAeduDesign.FPGAeduDesign&left_color=4A9EFF&right_color=FFB454)
 
 </div>
