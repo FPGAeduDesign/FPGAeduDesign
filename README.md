@@ -4,10 +4,10 @@
 
 ### *Soluciones FPGA Profesionales y Plataforma Educativa*
 
-[![Website](https://img.shields.io/badge/🌐_fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27&logoColor=white)](https://fpgaedudesign.com)
-[![YouTube](https://img.shields.io/badge/▶️_@FPGAeduDesign-FF0000?style=for-the-badge&labelColor=1a1b27&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
-[![TikTok](https://img.shields.io/badge/🎵_@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
-[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
+[![Website](https://img.shields.io/badge/Website-fpgaedudesign.com-4A9EFF?style=for-the-badge&labelColor=1a1b27&logo=google-chrome&logoColor=white)](https://fpgaedudesign.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@FPGAeduDesign-FF0000?style=for-the-badge&labelColor=1a1b27&logo=youtube&logoColor=white)](https://youtube.com/@FPGAeduDesign)
+[![TikTok](https://img.shields.io/badge/TikTok-@FPGAeduDesign-00F2EA?style=for-the-badge&labelColor=1a1b27&logo=tiktok&logoColor=white)](https://tiktok.com/@FPGAeduDesign)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:fpgaedudesign@gmail.com)
 
 <br>
 
@@ -62,9 +62,9 @@ Compartimos conocimiento y fomentamos la comunidad FPGA:
 
 | Placa | Chip FPGA | LUTs | Nivel | Aplicaciones |
 |:------|:----------|:-----|:------|:-------------|
-| **🟢 Explorer Lite-1K** | Gowin GW1NZ-1 | ~1,152 | Entry | Introducción, proyectos educativos |
-| **🟡 Explorer Neo-5K** | Gowin GW1N-4 | ~4,608 | Intermediate | DSP, comunicaciones, control industrial |
-| **🔴 Explorer Edge-9K** | Gowin GW1N-9 | ~8,640 | Advanced | Tiempo real, alta velocidad, edge computing |
+| **🟢 Explorer Lite-1K** | Gowin GW1N-1K | ~1,152 | Entry | Introducción, proyectos educativos |
+| **🟡 Explorer Neo-5K** | Gowin GW2A-18K | ~20,736 | Intermediate | DSP, comunicaciones, control industrial |
+| **🔴 Explorer Edge-9K** | Gowin GW2A-55K | ~55,296 | Advanced | Tiempo real, alta velocidad, edge computing |
 
 <div align="center">
 
@@ -366,7 +366,7 @@ Los proyectos están organizados por nivel de complejidad:
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
-**`"¿Te atrevea a diseñar tu chip a medida?"` 🛸**
+**`"Diseñando el futuro digital, un bit a la vez"` 🛸**
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
